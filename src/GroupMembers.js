@@ -3,7 +3,7 @@ import React from 'react';
 import './GroupMembers.css'; // Import your CSS file
 
 const GroupMembers = () => {
-  // List of group members
+  // List of group-members
   const members = [
     'Betrearon Dereje',
     'Albetre Deinstein',
