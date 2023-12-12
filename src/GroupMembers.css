@@ -1,0 +1,30 @@
+.group-members {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.group-members h2 {
+  text-align: center;
+}
+
+.group-members ul {
+  list-style: none;
+  padding: 0;
+}
+
+.group-members li {
+  margin-bottom: 5px;
+}
+
+.group-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
